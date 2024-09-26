@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78217257668",
+    "project_id": "clgcalender",
+    "storage_bucket": "clgcalender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78217257668:android:0476850dc0c1a15c465f91",
+        "android_client_info": {
+          "package_name": "com.example.clg_calender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvUC1zCuqNRGd6MVLkSIdlRSPK8JrgtNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
